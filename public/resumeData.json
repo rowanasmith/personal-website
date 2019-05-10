@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name":"Rowan Smith",
+    "occupation":"Full-Stack Engineer and Writer",
+    "description":"I am driven by a voracious thirst for knowledge and a passion for technology.",
+    "image":"profilepic.jpg",
+    "bio":"I'm a developer working in Javascript, with knowledge various front and back end technologies. I collect Movies, Records, Video Games, and Books. I have a beautiful wife and two feline sons, Tuna and Mackerel",
+    "contactmessage":"If you would like to get in contact with me, feel free to drop me a message below!",
+    "email": "rowanasmith90@gmail.com",
+    "phone": "612-308-8612",
+    "address":{
+      "street":"331 Sherwood Ave",
+      "city":"Saint Paul",
+      "state":"MN",
+      "zip": "55130"
+    },
+    
+    "resumedownload":"https://docs.google.com/document/d/1_wo7_1cajn2P5DFcXv6-JOZheBXvELZuNdAcOt2D7WM/edit?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/tinysalmon4",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/rowanasmith",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/rowan-smith-6b421835",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/tinysalmon4/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/rowanasmith",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Prime Digital Academy",
+        "degree":"Full-Stack Engineering Certification",
+        "graduated":"June 2019",
+        "description":"20 week intensive Javascript-based boot camp. Created a solo application, REWINDR, a database application for VHS tapes. Worked on a team to develop a scorekeeping application for HighTech Kids' Lego League Tournaments."
+      },
+      {
+        "school":"Augsburg University",
+        "degree":"BA in English - Creative Writing",
+        "graduated":"May 2015",
+        "description":"Associate Editor of Murphy Square Literary and Arts Journal. Winner of the Engman Award in Fiction. Contributing writer for The Augsburg Echo newspaper. "
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
