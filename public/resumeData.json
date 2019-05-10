@@ -15,7 +15,7 @@
       "zip": "55130"
     },
     
-    "resumedownload":"https://docs.google.com/document/d/1_wo7_1cajn2P5DFcXv6-JOZheBXvELZuNdAcOt2D7WM/edit?usp=sharing",
+    "resumedownload":"https://docs.google.com/document/d/1_wo7_1cajn2P5DFcXv6-JOZheBXvELZuNdAcOt2D7WM/export?format=pdf",
     "social":[
       {
         "name":"facebook",
@@ -51,7 +51,7 @@
         "school":"Prime Digital Academy",
         "degree":"Full-Stack Engineering Certification",
         "graduated":"June 2019",
-        "description":"20 week intensive Javascript-based boot camp. Created a solo application, REWINDR, a database application for VHS tapes. Worked on a team to develop a scorekeeping application for HighTech Kids' Lego League Tournaments."
+      "description":"20 week intensive Javascript-based boot camp. Learned technologies including React.js, jQuery, Node.js, Express, Java, MongoDB, PostgreSQL, and more."
       },
       {
         "school":"Augsburg University",
@@ -62,92 +62,39 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Prime Digital Academy",
+        "title":"Full Stack Development Student",
+        "years":"January 2019 - June 2019",
+        "description":"Created a solo application, REWINDR, a database application for VHS tapes. Worked on a team to develop a scorekeeping application for HighTech Kids' Lego League Tournaments."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Half Price Books",
+        "title":"Bookseller",
+        "years":"June 2016 - December 2018",
+        "description":"Bought and sold new and used media. Appraised items from the public. Managed specific sections. Merchandising in sections. Worked to maximize sales."
       }
-    ],
-    "skills":[
-      {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
-      }
+
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"REWINDR",
+        "category":"A cataloging application for VHS tapes",
+        "image":"",
+        "url":"https://github.com/rowanasmith/REWINDR"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Rowan posessess Ruthless Agression",
+        "user":"John Cena"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Rowan exemplifies the Three I's: Intensity, Integrity, and Intelligence",
+        "user":"Olympic Gold Medalist and WWE Hall of Famer Kurt Angle"
       }
     ]
   }
