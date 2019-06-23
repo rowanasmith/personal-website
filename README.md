@@ -3,4 +3,5 @@
 
 ### To Run
 - Download or clone
+- npm install
 - npm start
